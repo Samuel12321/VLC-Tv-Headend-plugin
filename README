@@ -11,3 +11,6 @@ Some settings are available for the service discovery. Filter advanced settings 
 URL format is htsp://{username{:password}@}server{:port}/channelId
 
 The Service Discovery module is listed under LAN and grabs the channel list from TVH.
+
+
+to install on raspberry pi: sudo apt-get install vlc
